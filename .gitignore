@@ -1,5 +1,8 @@
-target/
 .classpath
 .project
 .git
 .settings/
+.idea/
+
+target/
+chesslog.iml
